@@ -1,2 +1,6 @@
 initial txt file
+<<<<<<< HEAD
 changes made in initial
+=======
+changes made in GitHub
+>>>>>>> 947c166c5482808baefb21eab2cf6a11a2339261
